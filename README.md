@@ -4,7 +4,7 @@ Unified Device Tree for Moto E4 Qualcomm (perry)
 The Motorola Moto E4 (codenamed _"perry"_) is a low-range smartphone from
 Motorola Mobility. It was announced in June 2017.
 
-Note that although the device containus an 8917 chipset, the 8937-common device and kernel tree are used as they appear to be cross-chipset compatible (so as to make the E4 and E4 Plus under the same general tree set)
+Note that although the device contains an 8917 chipset, the 8937-common device and kernel tree are used as they appear to be cross-chipset compatible (so as to make the E4 and E4 Plus under the same general tree set)
 
 Basic   | Spec Sheet
 -------:|:-------------------------
